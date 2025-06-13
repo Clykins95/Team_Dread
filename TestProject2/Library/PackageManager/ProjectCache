@@ -1,33 +1,146 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/vital/Documents/GitHub/Team_Dread/TestProject2/Packages/manifest.json
+    m_FilePath: C:/Users/Owner/Documents/GitHub/Team_Dread/TestProject2/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638847450441844814
-    m_Hash: 3464482396
+      ticks: 638853729674158481
+    m_Hash: 2494629446
   m_LockFileStatus:
-    m_FilePath: C:/Users/vital/Documents/GitHub/Team_Dread/TestProject2/Packages/packages-lock.json
+    m_FilePath: C:/Users/Owner/Documents/GitHub/Team_Dread/TestProject2/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638847450570844558
-    m_Hash: 3644274572
+      ticks: 638853729674268495
+    m_Hash: 2291787495
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/vital/Documents/GitHub/Team_Dread/TestProject2/Packages
+m_ProjectPath: C:/Users/Owner/Documents/GitHub/Team_Dread/TestProject2/Packages
 m_EditorVersion: 6000.1.5f1 (923722cbbcfc)
 m_ResolvedPackages:
+- packageId: com.unity.ai.navigation@2.0.8
+  testable: 0
+  isDirectDependency: 1
+  version: 2.0.8
+  source: 1
+  resolvedPath: C:\Users\Owner\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.ai.navigation@eb5635ad590d
+  assetPath: Packages/com.unity.ai.navigation
+  name: com.unity.ai.navigation
+  displayName: AI Navigation
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The AI Navigation package contains high-level components that allow
+    you to use navmeshes to incorporate navigation and pathfinding in your game.
+    With this package installed you can build and use navmeshes at runtime and at
+    edit time, create dynamic obstacles, and use links to allow specific actions
+    (like jumping) as your characters navigate between navmeshes.
+  errors: []
+  versions:
+    all:
+    - 1.0.0-exp.2
+    - 1.0.0-exp.3
+    - 1.0.0-exp.4
+    - 1.1.0-pre.1
+    - 1.1.0-pre.2
+    - 1.1.1
+    - 1.1.3
+    - 1.1.4
+    - 1.1.5
+    - 1.1.6
+    - 2.0.0-pre.3
+    - 2.0.0-pre.4
+    - 2.0.0
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    - 2.0.6
+    - 2.0.7
+    - 2.0.8
+    compatible:
+    - 2.0.7
+    - 2.0.8
+    recommended: 2.0.8
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.ai
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.ai
+    version: 1.0.0
+  keywords:
+  - carving
+  - mesh
+  - navigation
+  - navmesh
+  - NavMesh
+  - navmesh agent
+  - navmesh link
+  - navmeshlink
+  - navmesh modifier
+  - navmeshmodifier
+  - navmesh modifier volume
+  - navmeshmodifiervolume
+  - navmesh obstacle
+  - navmesh surface
+  - navmeshsurface
+  - offmesh link
+  - off-mesh link
+  - pathfinding
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638841129733020000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.ai.navigation@2.0/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.ai.navigation.git
+    revision: edeb8e889d1eedf4001fa41bdab7d69d01a62f24
+    path: 
+  unityLifecycle:
+    version: 2.0.7
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Fixed\n* Samples will now use appropriate material
+    colors in projects using HDRP or URP. Install the **com.unity.shadergraph** package
+    to show the materials correctly for built-in render pipeline projects."}'
+  assetStore:
+    productId: 
+  fingerprint: eb5635ad590d47cef2a5c920d9475cc222db3f67
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 2.0.7
+    minimumUnityVersion: 6000.0.0a1
 - packageId: com.unity.collab-proxy@2.8.2
   testable: 0
   isDirectDependency: 1
   version: 2.8.2
   source: 1
-  resolvedPath: C:\Users\vital\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.collab-proxy@c854d1f7d97f
+  resolvedPath: C:\Users\Owner\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.collab-proxy@c854d1f7d97f
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -190,7 +303,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.2
   source: 2
-  resolvedPath: C:\Users\vital\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.feature.development@767aadbc6eb7
+  resolvedPath: C:\Users\Owner\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.feature.development@767aadbc6eb7
   assetPath: Packages/com.unity.feature.development
   name: com.unity.feature.development
   displayName: Engineering
@@ -291,7 +404,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.14.0
   source: 1
-  resolvedPath: C:\Users\vital\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.inputsystem@7fe8299111a7
+  resolvedPath: C:\Users\Owner\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.inputsystem@7fe8299111a7
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -440,7 +553,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\vital\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: C:\Users\Owner\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -530,7 +643,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.7
   source: 1
-  resolvedPath: C:\Users\vital\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.timeline@c58b4ee65782
+  resolvedPath: C:\Users\Owner\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.timeline@c58b4ee65782
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -716,7 +829,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: C:\Users\vital\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.ugui@7bf98f579204
+  resolvedPath: C:\Users\Owner\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.ugui@7bf98f579204
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -811,7 +924,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.7
   source: 1
-  resolvedPath: C:\Users\vital\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.visualscripting@6279e2b7c485
+  resolvedPath: C:\Users\Owner\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.visualscripting@6279e2b7c485
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -3355,7 +3468,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.23
   source: 1
-  resolvedPath: C:\Users\vital\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
+  resolvedPath: C:\Users\Owner\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -3461,7 +3574,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.0.36
   source: 1
-  resolvedPath: C:\Users\vital\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
+  resolvedPath: C:\Users\Owner\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -3579,7 +3692,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 1
-  resolvedPath: C:\Users\vital\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.editorcoroutines@7d48783e7b8c
+  resolvedPath: C:\Users\Owner\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.editorcoroutines@7d48783e7b8c
   assetPath: Packages/com.unity.editorcoroutines
   name: com.unity.editorcoroutines
   displayName: Editor Coroutines
@@ -3656,7 +3769,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.3
   source: 1
-  resolvedPath: C:\Users\vital\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.performance.profile-analyzer@a68e7bc84997
+  resolvedPath: C:\Users\Owner\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.performance.profile-analyzer@a68e7bc84997
   assetPath: Packages/com.unity.performance.profile-analyzer
   name: com.unity.performance.profile-analyzer
   displayName: Profile Analyzer
@@ -3741,7 +3854,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.5.1
   source: 2
-  resolvedPath: C:\Users\vital\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.test-framework@e9eb633386e7
+  resolvedPath: C:\Users\Owner\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.test-framework@e9eb633386e7
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -3879,7 +3992,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.6
   source: 1
-  resolvedPath: C:\Users\vital\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.testtools.codecoverage@205a02cbcb39
+  resolvedPath: C:\Users\Owner\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.testtools.codecoverage@205a02cbcb39
   assetPath: Packages/com.unity.testtools.codecoverage
   name: com.unity.testtools.codecoverage
   displayName: Code Coverage
@@ -4002,7 +4115,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.1.0
   source: 1
-  resolvedPath: C:\Users\vital\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.settings-manager@41738c275190
+  resolvedPath: C:\Users\Owner\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.settings-manager@41738c275190
   assetPath: Packages/com.unity.settings-manager
   name: com.unity.settings-manager
   displayName: Settings Manager
@@ -4079,7 +4192,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.5
   source: 2
-  resolvedPath: C:\Users\vital\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.ext.nunit@031a54704bff
+  resolvedPath: C:\Users\Owner\Documents\GitHub\Team_Dread\TestProject2\Library\PackageCache\com.unity.ext.nunit@031a54704bff
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit

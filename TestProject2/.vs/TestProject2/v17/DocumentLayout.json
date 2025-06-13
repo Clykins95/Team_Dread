@@ -1,34 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\",
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Documents\\GitHub\\Team_Dread\\TestProject2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\assets\\scripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|C:\\Users\\Owner\\Documents\\GitHub\\Team_Dread\\TestProject2\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|c:\\users\\vital\\documents\\github\\team_dread\\testproject2\\assets\\scripts\\buttonfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|C:\\Users\\Owner\\Documents\\GitHub\\Team_Dread\\TestProject2\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\assets\\scripts\\idamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|c:\\users\\owner\\documents\\github\\team_dread\\testproject2\\assets\\scripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|C:\\Users\\Owner\\Documents\\GitHub\\Team_Dread\\TestProject2\\assets\\scripts\\idamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\idamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\cameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\cameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|C:\\Users\\Owner\\Documents\\GitHub\\Team_Dread\\TestProject2\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|C:\\Users\\Owner\\Documents\\GitHub\\Team_Dread\\TestProject2\\assets\\scripts\\buttonfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\cameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,41 +37,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwAQAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T21:29:10.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Damage.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\Damage.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\Damage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Damage.cs",
-              "ToolTip": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\Damage.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\Damage.cs",
               "RelativeToolTip": "Assets\\Scripts\\Damage.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwA4AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T19:23:43.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "IDamage.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\IDamage.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\IDamage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IDamage.cs",
-              "ToolTip": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\IDamage.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\IDamage.cs",
               "RelativeToolTip": "Assets\\Scripts\\IDamage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -83,51 +90,49 @@
               "DocumentIndex": 6,
               "Title": "cameraController.cs",
               "DocumentMoniker": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\cameraController.cs",
-              "RelativeDocumentMoniker": "Assets\\cameraController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\cameraController.cs",
               "ToolTip": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\cameraController.cs",
-              "RelativeToolTip": "Assets\\cameraController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\cameraController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T02:02:48.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T01:34:44.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T01:34:44.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "EnemyAI.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\EnemyAI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
-              "ToolTip": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\EnemyAI.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB8AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T20:33:22.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ButtonFunctions.cs",
-              "DocumentMoniker": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\ButtonFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\ButtonFunctions.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonFunctions.cs",
-              "ToolTip": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\ButtonFunctions.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\ButtonFunctions.cs",
               "RelativeToolTip": "Assets\\Scripts\\ButtonFunctions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T19:22:54.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T19:22:54.758Z"
             }
           ]
         }
