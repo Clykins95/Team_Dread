@@ -11,7 +11,8 @@ public class EnemyAI : MonoBehaviour, IDamage
 
     [SerializeField] int FOV;
     [SerializeField] int turnSpeed;
-  
+   // [SerializeField] int speed;
+   
     
 
     Color colorOrig;
