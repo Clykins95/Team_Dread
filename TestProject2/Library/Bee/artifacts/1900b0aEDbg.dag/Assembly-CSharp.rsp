@@ -403,7 +403,7 @@
 "Assets/Scripts/ButtonFunctions.cs"
 "Assets/Scripts/cameraController.cs"
 "Assets/Scripts/Damage.cs"
-"Assets/Scripts/Destructable.cs"
+"Assets/Scripts/Destructible.cs"
 "Assets/Scripts/EnemyAI.cs"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/IDamage.cs"
