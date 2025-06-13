@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Dev\\Team_Dread\\TestProject2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|D:\\Dev\\Team_Dread\\TestProject2\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|d:\\dev\\team_dread\\testproject2\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|d:\\dev\\team_dread\\testproject2\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|D:\\Dev\\Team_Dread\\TestProject2\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
               "ToolTip": "D:\\Dev\\Team_Dread\\TestProject2\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAkwEwAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T21:29:10.147Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Damage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T19:23:43.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T19:23:43.619Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
               "ViewState": "AgIAAHsAAAAAAAAAAAAlwIEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T01:34:44.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T01:34:44.876Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T20:33:22.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T20:33:22.489Z"
             },
             {
               "$type": "Document",
@@ -122,8 +119,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ButtonFunctions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T19:22:54.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T19:22:54.758Z"
             }
           ]
         }
