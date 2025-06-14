@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|c:\\users\\vital\\documents\\github\\team_dread\\testproject2\\assets\\scripts\\destructible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destructible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|c:\\users\\vital\\documents\\github\\team_dread\\testproject2\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Destructible.cs",
+              "DocumentMoniker": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\Destructible.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Destructible.cs",
+              "ToolTip": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\Destructible.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Destructible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T04:25:23.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EnemyAI.cs",
               "DocumentMoniker": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\EnemyAI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Destructable.cs",
               "DocumentMoniker": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\Destructable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Destructable.cs",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -95,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Damage.cs",
               "DocumentMoniker": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\Damage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Damage.cs",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IDamage.cs",
               "DocumentMoniker": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\IDamage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IDamage.cs",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "cameraController.cs",
               "DocumentMoniker": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\cameraController.cs",
               "RelativeDocumentMoniker": "Assets\\cameraController.cs",
@@ -131,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ButtonFunctions.cs",
               "DocumentMoniker": "C:\\Users\\vital\\Documents\\GitHub\\Team_Dread\\TestProject2\\Assets\\Scripts\\ButtonFunctions.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonFunctions.cs",
