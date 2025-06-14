@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638847450441844814
-    m_Hash: 3464482396
+      ticks: 638853859664424739
+    m_Hash: 1137649980
   m_LockFileStatus:
     m_FilePath: C:/Users/vital/Documents/GitHub/Team_Dread/TestProject2/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638847450570844558
-    m_Hash: 3644274572
+      ticks: 638853859664424739
+    m_Hash: 3792898883
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
