@@ -1,0 +1,473 @@
+Using pre-set license
+Built from '6000.1/staging' branch; Version is '6000.1.5f1 (923722cbbcfc) revision 9582370'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'en' Physical Memory: 16084 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+Date: 2025-06-12T23:53:07Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.1.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Documents/schoolwork/software engineering/Team_Dread/TestProject2
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50896
+-job-worker-count
+11
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: D:/Documents/schoolwork/software engineering/Team_Dread/TestProject2
+D:/Documents/schoolwork/software engineering/Team_Dread/TestProject2
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [4604]  Target information:
+
+Player connection [4604]  * "[IP] 172.20.128.1 [Port] 0 [Flags] 2 [Guid] 3982238801 [EditorId] 3982238801 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [4604]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3982238801 [EditorId] 3982238801 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [4604]  * "[IP] 192.168.100.1 [Port] 0 [Flags] 2 [Guid] 3982238801 [EditorId] 3982238801 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [4604]  * "[IP] 192.168.68.52 [Port] 0 [Flags] 2 [Guid] 3982238801 [EditorId] 3982238801 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [4604] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [4604] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 11
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 6.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.1.5f1 (923722cbbcfc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.1.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Documents/schoolwork/software engineering/Team_Dread/TestProject2/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        NVIDIA GeForce RTX 4070 Laptop GPU (ID=0x2820)
+    Vendor:          NVIDIA
+    VRAM:            7948 MB
+    App VRAM Budget: 7180 MB
+    Driver:          32.0.15.7602
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.1.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.1.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.1.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56032
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.5f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.003129 seconds.
+- Loaded All Assemblies, in  0.386 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.324 seconds
+Domain Reload Profiling: 708ms
+	BeginReloadAssembly (158ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (142ms)
+		LoadAssemblies (156ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (139ms)
+			TypeCache.Refresh (137ms)
+				TypeCache.ScanAssembly (126ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (325ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (297ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (76ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (52ms)
+			ProcessInitializeOnLoadAttributes (111ms)
+			ProcessInitializeOnLoadMethodAttributes (54ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.620 seconds
+Refreshing native plugins compatible for Editor in 1.14 ms, found 3 plugins.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.467 seconds
+Domain Reload Profiling: 1084ms
+	BeginReloadAssembly (160ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (390ms)
+		LoadAssemblies (313ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (170ms)
+			TypeCache.Refresh (123ms)
+				TypeCache.ScanAssembly (111ms)
+			BuildScriptInfoCaches (41ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (467ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (372ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (71ms)
+			ProcessInitializeOnLoadAttributes (262ms)
+			ProcessInitializeOnLoadMethodAttributes (21ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 25 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3726 unused Assets / (0.7 MB). Loaded Objects now: 4253.
+Memory consumption went from 96.4 MB to 95.8 MB.
+Total: 5.743800 ms (FindLiveObjects: 0.771800 ms CreateObjectMapping: 0.159400 ms MarkObjects: 4.061300 ms  DeleteObjects: 0.749400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 372886.629357 seconds.
+  path: Assets/Scripts/cameraController.cs
+  artifactKey: Guid(1aee4bd750d40f24b869424b0e7e0c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/cameraController.cs using Guid(1aee4bd750d40f24b869424b0e7e0c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '89ea0c539ddaa1d11d84e63a89d96e5a') in 0.0150645 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.632203 seconds.
+  path: Assets/Scripts/Damage.cs
+  artifactKey: Guid(081c12fa439ce004096e9507bb87ca58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Damage.cs using Guid(081c12fa439ce004096e9507bb87ca58) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '958009aa9b1b07366cd9c097fd0df046') in 0.0006601 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.635355 seconds.
+  path: Assets/Scripts/EnemyAI.cs
+  artifactKey: Guid(a3fcb999690eaaf41b9d3e0c3ad7c6a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemyAI.cs using Guid(a3fcb999690eaaf41b9d3e0c3ad7c6a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '18362636c5dbed4a56cb1fbe552faaa0') in 0.0005223 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049810 seconds.
+  path: Assets/Scripts/GameManager.cs
+  artifactKey: Guid(3ec502ed8c382ea4692f469223fa5438) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameManager.cs using Guid(3ec502ed8c382ea4692f469223fa5438) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8ea7474c0ba5b074d3007c2de6744cc1') in 0.0004094 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.745485 seconds.
+  path: Assets/Scripts/IDamage.cs
+  artifactKey: Guid(92ce3238298b02842b24bc6ea174dfee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/IDamage.cs using Guid(92ce3238298b02842b24bc6ea174dfee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '06a12866eb742b7ec190fdb34f91d430') in 0.0005341 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.626094 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(69ccd364b1db5804c8d4f1b5cca61ca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(69ccd364b1db5804c8d4f1b5cca61ca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0128419c397dfe39ba5166f4114230c1') in 0.0003692 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1282.551089 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(b9dc50e52da536c49879f5124be6963f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(b9dc50e52da536c49879f5124be6963f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9fb1fd37dc20cb5c470e933cdd2a1ab8') in 0.0084942 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.853329 seconds.
+  path: Assets/Materials/Terrain
+  artifactKey: Guid(4f35dffaf8ff6eb479da17ac27bca30e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Terrain using Guid(4f35dffaf8ff6eb479da17ac27bca30e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6c691578b3b8ddf9a6564fbf2839f197') in 0.0033158 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.979473 seconds.
+  path: Assets/Textures
+  artifactKey: Guid(4fe68dcd2d2f2db46ad22cf704e62da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures using Guid(4fe68dcd2d2f2db46ad22cf704e62da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd0cc9896b5d9ede8df94d7fdb882cb14') in 0.0020568 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.862970 seconds.
+  path: Assets/Textures/wall tile.png
+  artifactKey: Guid(908adbfb79d55e54f98bed42ce5cc1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/wall tile.png using Guid(908adbfb79d55e54f98bed42ce5cc1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '27f35770d4e747e99e962e75884d5411') in 0.4798391 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.340266 seconds.
+  path: Assets/Unity Store DLs
+  artifactKey: Guid(7f33ec82169c09e41bcb05559309e7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store DLs using Guid(7f33ec82169c09e41bcb05559309e7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd5ef379b89152c926346b8903950d5de') in 0.0015281 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.399808 seconds.
+  path: Assets/Prefabs/Wall.prefab
+  artifactKey: Guid(df21dbe2ab93aba48b82db8479cdb641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Wall.prefab using Guid(df21dbe2ab93aba48b82db8479cdb641) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '886f66953d58b3a8bfd647252adca573') in 0.184648 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 170.966858 seconds.
+  path: Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin1 body v2/1_Albedo.tga
+  artifactKey: Guid(a10c0630bd1b34d4890d395c835a0bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin1 body v2/1_Albedo.tga using Guid(a10c0630bd1b34d4890d395c835a0bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2a925ef79c14e9811b25cbc031e5e90d') in 0.0377195 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin4 body v2/4_Albedo.tga
+  artifactKey: Guid(483287a5f3e25ae44a4be2e1271b9f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin4 body v2/4_Albedo.tga using Guid(483287a5f3e25ae44a4be2e1271b9f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4a0cd857795c87c54352cc13cc5a8a90') in 0.0351592 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Unity Store DLs/SciFi_Space_Soldier/Resources/Space_Soldier/Textures/T_SpaceSoldier_Head_D.tga
+  artifactKey: Guid(2f5a147c8e798ed45ac7ac5e13006a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store DLs/SciFi_Space_Soldier/Resources/Space_Soldier/Textures/T_SpaceSoldier_Head_D.tga using Guid(2f5a147c8e798ed45ac7ac5e13006a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8241aeb46312be01ed5851bdb4d101a1') in 0.0210249 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin3 body v2/3_Albedo.tga
+  artifactKey: Guid(2212bdebcef6e724cb562eeb1de00331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin3 body v2/3_Albedo.tga using Guid(2212bdebcef6e724cb562eeb1de00331) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8705e65cece1f189056ff2b9b7c750e8') in 0.0333103 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Unity Store DLs/SciFi_Space_Soldier/Resources/Weapons/Rifle/HUD/HUD_Icon_Rifle.png
+  artifactKey: Guid(986fb6568545e4b4e8d2825e26616dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store DLs/SciFi_Space_Soldier/Resources/Weapons/Rifle/HUD/HUD_Icon_Rifle.png using Guid(986fb6568545e4b4e8d2825e26616dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '24d7cb7b0d5b084919d50257f8e30803') in 0.0190881 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin1 body v2/1_Occlusion.tga
+  artifactKey: Guid(ae45eecf5db3178478d6cc4c1118bdab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin1 body v2/1_Occlusion.tga using Guid(ae45eecf5db3178478d6cc4c1118bdab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e6c7e4ae96992e054ccd96decdb55d88') in 0.0396068 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin3 body v2/3_Normal.tga
+  artifactKey: Guid(808419d01356f0d4183d070b337c811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin3 body v2/3_Normal.tga using Guid(808419d01356f0d4183d070b337c811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1eafcbaefc6416d855fd9f0187c659cd') in 0.0841783 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Unity Store DLs/SciFi_Space_Soldier/Resources/Space_Soldier/Textures/T_SpaceSoldier_Head_CM.tga
+  artifactKey: Guid(b498b07523c8c804c9294b2fded8de2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store DLs/SciFi_Space_Soldier/Resources/Space_Soldier/Textures/T_SpaceSoldier_Head_CM.tga using Guid(b498b07523c8c804c9294b2fded8de2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '596eff94939200b7424fbc9763a2b7b5') in 0.0207164 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin3 body v2/3_metalic+gloss.tga
+  artifactKey: Guid(7249d52cc410aa341970b5673e7fbed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin3 body v2/3_metalic+gloss.tga using Guid(7249d52cc410aa341970b5673e7fbed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8d83ac34124a8cb9384f73b1ad91644d') in 0.045797 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin4 body v2/4_Normal.tga
+  artifactKey: Guid(cd579d336cc96e547a073d6c74719f09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin4 body v2/4_Normal.tga using Guid(cd579d336cc96e547a073d6c74719f09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c74badffa0b13be890697d73ed0a8096') in 0.0483564 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin3 body v2/3_Emission2.tga
+  artifactKey: Guid(badf781cff247af47a5b3321bb05a105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin3 body v2/3_Emission2.tga using Guid(badf781cff247af47a5b3321bb05a105) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1b52163bf668cfed816f8c523adb5e8d') in 0.029102 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin4 body v2/4_Emission.tga
+  artifactKey: Guid(1bc6db4ae94994243b73ce54ac93a019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin4 body v2/4_Emission.tga using Guid(1bc6db4ae94994243b73ce54ac93a019) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e5db0ae0124ab77c2bdda37fe841c4b3') in 0.0271555 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin1 body v2/1_metalic+gloss.tga
+  artifactKey: Guid(b12ef0cd0da2c754dafb71abe1d65889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin1 body v2/1_metalic+gloss.tga using Guid(b12ef0cd0da2c754dafb71abe1d65889) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f5286b712d169e63946b9e3cdc26888c') in 0.039517 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2602fea706a0d54212234c46bb1ef80a') in 0.0176781 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '95e6ee178952451974cdf7b1f77345a0') in 0.1629837 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin4 body v2/4_metalic+gloss.tga
+  artifactKey: Guid(3a0d91b0063f47846bf6b99bfaa00bce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin4 body v2/4_metalic+gloss.tga using Guid(3a0d91b0063f47846bf6b99bfaa00bce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '143b1d9c196595f26747788592eb113d') in 0.0309973 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin1 body v2/1_Normal.tga
+  artifactKey: Guid(cfe60dfe41f309c4db1d000b885ce379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin1 body v2/1_Normal.tga using Guid(cfe60dfe41f309c4db1d000b885ce379) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1ee45a7526ca04f12b2793341aeae42') in 0.0409636 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin2 body v2/2_Occlusion.tga
+  artifactKey: Guid(d7c52bd4fae15a64ab541e074ef850c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin2 body v2/2_Occlusion.tga using Guid(d7c52bd4fae15a64ab541e074ef850c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e90c742dd7334045a9e3be6be82f02e9') in 0.022975 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin3 body v2/3_Occlusion.tga
+  artifactKey: Guid(88db01bf23d8f354e81e30c0b557a4b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin3 body v2/3_Occlusion.tga using Guid(88db01bf23d8f354e81e30c0b557a4b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0252acf06640d71843d20071ea40e9ea') in 0.0247074 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin2 body v2/2_Normal.tga
+  artifactKey: Guid(4f177e3db0c016e4998799cdffe744b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin2 body v2/2_Normal.tga using Guid(4f177e3db0c016e4998799cdffe744b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '092b266d65e10c767ea7fc9271d6b819') in 0.0373118 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin2 body v2/2_Emission.tga
+  artifactKey: Guid(6f276d18ecf2c1841a03f6c25395f1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store DLs/MonsterMutant 7/Texture/textures skin2 body v2/2_Emission.tga using Guid(6f276d18ecf2c1841a03f6c25395f1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '08beb15b4ca281cd1921fe911352927f') in 0.0224524 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Textures/NormalMap.png
+  artifactKey: Guid(9dce1f5d47f95be45b817aa7557c0052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/NormalMap.png using Guid(9dce1f5d47f95be45b817aa7557c0052) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f098dc6aa95510afb72f1ee89c8c8dd2') in 0.0151583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
