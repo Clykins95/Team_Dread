@@ -9,7 +9,7 @@ public class EnemyAI : MonoBehaviour, IDamage
     [SerializeField] Renderer model;
     [SerializeField] NavMeshAgent agent;
 
-    [SerializeField] int FOV;
+    // [SerializeField] int FOV;
     [SerializeField] int turnSpeed;
    // [SerializeField] int speed;
    

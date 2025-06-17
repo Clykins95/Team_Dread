@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Miner\\Downloads\\team dread\\Team_Dread-Christian-s-Branch\\TestProject2\\",
+  "WorkspaceRootPath": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|C:\\Users\\Miner\\Downloads\\team dread\\Team_Dread-Christian-s-Branch\\TestProject2\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|c:\\users\\miner\\downloads\\team dread\\team_dread-christian-s-branch\\testproject2\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|d:\\documents\\schoolwork\\software engineering\\team_dread\\testproject2\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|C:\\Users\\Miner\\Downloads\\team dread\\Team_Dread-Christian-s-Branch\\TestProject2\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|C:\\Users\\Miner\\Downloads\\team dread\\Team_Dread-Christian-s-Branch\\TestProject2\\assets\\scripts\\idamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\assets\\scripts\\idamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\idamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,30 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "EnemyAI.cs",
-              "DocumentMoniker": "C:\\Users\\Miner\\Downloads\\team dread\\Team_Dread-Christian-s-Branch\\TestProject2\\Assets\\Scripts\\EnemyAI.cs",
+              "DocumentMoniker": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\EnemyAI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
-              "ToolTip": "C:\\Users\\Miner\\Downloads\\team dread\\Team_Dread-Christian-s-Branch\\TestProject2\\Assets\\Scripts\\EnemyAI.cs",
+              "ToolTip": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\EnemyAI.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAowBYAAAAFAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T00:25:44.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\Miner\\Downloads\\team dread\\Team_Dread-Christian-s-Branch\\TestProject2\\Assets\\Scripts\\GameManager.cs",
+              "DocumentMoniker": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\Miner\\Downloads\\team dread\\Team_Dread-Christian-s-Branch\\TestProject2\\Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAzwEwAAABHAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwEwAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T00:20:34.212Z",
               "EditorCaption": ""
@@ -58,9 +58,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\Miner\\Downloads\\team dread\\Team_Dread-Christian-s-Branch\\TestProject2\\Assets\\Scripts\\PlayerController.cs",
+              "DocumentMoniker": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\Miner\\Downloads\\team dread\\Team_Dread-Christian-s-Branch\\TestProject2\\Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
               "ViewState": "AQIAAHoAAAAAAAAAAAAjwIsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -70,9 +70,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IDamage.cs",
-              "DocumentMoniker": "C:\\Users\\Miner\\Downloads\\team dread\\Team_Dread-Christian-s-Branch\\TestProject2\\Assets\\Scripts\\IDamage.cs",
+              "DocumentMoniker": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\IDamage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IDamage.cs",
-              "ToolTip": "C:\\Users\\Miner\\Downloads\\team dread\\Team_Dread-Christian-s-Branch\\TestProject2\\Assets\\Scripts\\IDamage.cs",
+              "ToolTip": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\IDamage.cs",
               "RelativeToolTip": "Assets\\Scripts\\IDamage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
