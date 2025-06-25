@@ -3,20 +3,60 @@
   "WorkspaceRootPath": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|d:\\documents\\schoolwork\\software engineering\\team_dread\\testproject2\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|d:\\documents\\schoolwork\\software engineering\\team_dread\\testproject2\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\assets\\scripts\\iopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|d:\\documents\\schoolwork\\software engineering\\team_dread\\testproject2\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\assets\\scripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\assets\\scripts\\buttonfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\assets\\scripts\\destructible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destructible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\assets\\scripts\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\assets\\scripts\\ipickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ipickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\assets\\scripts\\idamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\idamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\assets\\scripts\\gunstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CF9F-A73C-A9AB-E976-D11CDDDAF7F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gunstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,50 +71,173 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "spawner.cs",
+              "DocumentMoniker": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\spawner.cs",
+              "ToolTip": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\spawner.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:44:53.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOpen.cs",
+              "DocumentMoniker": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\IOpen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IOpen.cs",
+              "ToolTip": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\IOpen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IOpen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:56:29.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "door.cs",
+              "DocumentMoniker": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\door.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\door.cs",
+              "ToolTip": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\door.cs",
+              "RelativeToolTip": "Assets\\Scripts\\door.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:51:51.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ButtonFunctions.cs",
+              "DocumentMoniker": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\ButtonFunctions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonFunctions.cs",
+              "ToolTip": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\ButtonFunctions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonFunctions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:18:19.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "checkpoint.cs",
+              "DocumentMoniker": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\checkpoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\checkpoint.cs",
+              "ToolTip": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\checkpoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\checkpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:09:47.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Destructible.cs",
+              "DocumentMoniker": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\Destructible.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Destructible.cs",
+              "ToolTip": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\Destructible.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Destructible.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:39:49.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Damage.cs",
+              "DocumentMoniker": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\Damage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Damage.cs",
+              "ToolTip": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\Damage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Damage.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwD0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:33:20.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPickup.cs",
+              "DocumentMoniker": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\IPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IPickup.cs",
+              "ToolTip": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\IPickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IPickup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:27:51.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "pickup.cs",
+              "DocumentMoniker": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\pickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\pickup.cs",
+              "ToolTip": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\pickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\pickup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:25:30.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "gunStats.cs",
+              "DocumentMoniker": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\gunStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\gunStats.cs",
+              "ToolTip": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\gunStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\gunStats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:15:28.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EnemyAI.cs",
               "DocumentMoniker": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\EnemyAI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
               "ToolTip": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\EnemyAI.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T00:25:44.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
               "ToolTip": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAIwEwAAABHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T00:20:34.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AQIAAHoAAAAAAAAAAAAjwIsAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T00:20:28.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "IDamage.cs",
               "DocumentMoniker": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\IDamage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IDamage.cs",
               "ToolTip": "D:\\Documents\\schoolwork\\software engineering\\Team_Dread\\TestProject2\\Assets\\Scripts\\IDamage.cs",
               "RelativeToolTip": "Assets\\Scripts\\IDamage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T00:20:28.35Z"
             }

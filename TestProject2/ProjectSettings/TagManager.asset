@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - PlayerSpawn
+  - EnemyRespawn
   layers:
   - Default
   - TransparentFX
@@ -14,8 +16,8 @@ TagManager:
   - Player Bullet
   - Enemy
   - Enemy Bullet
-  - 
-  - 
+  - WorldHUD
+  - SpawnObject
   - 
   - 
   - 

@@ -5,29 +5,16 @@ using UnityEngine.AI;
 
 public class EnemyAI : MonoBehaviour, IDamage
 {
-    [SerializeField] int HP;
-    [SerializeField] Renderer model;
-    [SerializeField] NavMeshAgent agent;
-
-    // [SerializeField] int FOV;
+    [SerializeField] float HP;
     [SerializeField] int turnSpeed;
-   // [SerializeField] int speed;
-   
-    
-
+    [SerializeField] Renderer model;
     Color colorOrig;
-    
-  
-
-   /* private void OnTriggerEnter(Collider other)
-    {
-        if (other.CompareTag("Player"))
-        {
-            playerinrange = true;
-        }
-    }*/
-
+    [SerializeField] NavMeshAgent agent;
+    [SerializeField] Animator anim;
+    float animSpeedTrans = 1;  
     Vector3 playerDirection;
+
+    Collider swordCol;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -40,34 +27,16 @@ public class EnemyAI : MonoBehaviour, IDamage
     // Update is called once per frame
     void Update()
     {
+        // i told ya i'd remove it
         agent.SetDestination(GameManager.instance.player.transform.position);
+
+        // still being funky but i'll get it eventually
+        float agentSpeedCur = agent.velocity.normalized.magnitude;
+        float animSpeedCur = anim.GetFloat("Speed");
+        anim.SetFloat("Speed", Mathf.Lerp(animSpeedCur, agentSpeedCur, Time.deltaTime * animSpeedTrans));
     }
 
-
-    
-
-    /*bool canSeePlayer()
-    {
-        playerDirection = GameManager.instance.player.transform.position - headLevel.position;
-        angleToPlayer = Vector3.Angle(playerDirection, transform.forward);
-        RaycastHit hit;
-        Debug.DrawRay(headLevel.position, playerDirection);
-
-        if (Physics.Raycast(headLevel.position, playerDirection, out hit))
-        {
-
-            if (angleToPlayer < FOV && hit.collider.CompareTag("Player"))
-            {
-                agent.SetDestination(GameManager.instance.player.transform.position);
-                Debug.Log("canSeePlayer");
-                return true;
-            }
-            
-        }
-        Debug.Log("blind");
-        return false;
-    }*/
-    public void TakeDamage(int amount)
+    public void TakeDamage(float amount)
     {
         HP -= amount;
 
@@ -97,6 +66,27 @@ public class EnemyAI : MonoBehaviour, IDamage
         transform.rotation = Quaternion.Lerp(transform.rotation, rot, Time.deltaTime * turnSpeed);
     }
 
-   
+    void setAnimations()
+    {
+        float agentSpeedCur = agent.velocity.normalized.magnitude;
+        float animSpeedCur = anim.GetFloat("Speed");
 
+        anim.SetFloat("Speed", Mathf.Lerp(animSpeedCur, agentSpeedCur, Time.deltaTime * animSpeedTrans));
+    }
+
+    // no. -_-
+    public void swordColOn()
+    {
+        if (swordCol)
+        {
+            swordCol.enabled = true;
+        }
+    }
+    public void swordColOff()
+    {
+        if (swordCol)
+        {
+            swordCol.enabled = false;
+        }
+    }
 }

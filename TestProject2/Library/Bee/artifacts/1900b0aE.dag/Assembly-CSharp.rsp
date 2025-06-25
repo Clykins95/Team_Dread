@@ -430,12 +430,19 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.1.5f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Scripts/ButtonFunctions.cs"
 "Assets/Scripts/cameraController.cs"
+"Assets/Scripts/checkpoint.cs"
 "Assets/Scripts/Damage.cs"
 "Assets/Scripts/Destructible.cs"
+"Assets/Scripts/door.cs"
 "Assets/Scripts/EnemyAI.cs"
 "Assets/Scripts/GameManager.cs"
+"Assets/Scripts/gunStats.cs"
 "Assets/Scripts/IDamage.cs"
+"Assets/Scripts/IOpen.cs"
+"Assets/Scripts/IPickup.cs"
+"Assets/Scripts/pickup.cs"
 "Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/spawner.cs"
 -langversion:9.0
 /deterministic
 /optimize+

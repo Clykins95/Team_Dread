@@ -16,6 +16,8 @@ public class GameManager : MonoBehaviour
     public GameObject playerDamageScript;
     public GameObject player;
     public PlayerController playerScript;
+    public GameObject playerSpawn;
+    public GameObject checkpointPopup;
 
     public bool isPaused;
 
@@ -29,6 +31,7 @@ public class GameManager : MonoBehaviour
         playerScript = player.GetComponent<PlayerController>();
 
         timeScaleOrig = Time.timeScale;
+        playerSpawn = GameObject.FindWithTag("PlayerSpawn");
     }
 
     // Update is called once per frame
